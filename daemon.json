@@ -1,0 +1,9 @@
+{
+  "swarm-default-advertise-addr": "192.168.33.11",
+  "registry-mirrors": [
+    "https://docker.mirrors.ustc.edu.cn"
+  ],
+  "insecure-registries": [
+    "0.0.0.0/0"
+  ]
+}
